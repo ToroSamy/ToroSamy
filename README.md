@@ -13,7 +13,6 @@
 <p align="left"> 
       &emsp;&emsp;&emsp;
       <!-- 前端 -->
-      <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-vue-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-html+css-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-JavaScript-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-TypeScript-%231677ff?style=flat"/></a>
