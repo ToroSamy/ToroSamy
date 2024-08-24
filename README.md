@@ -17,17 +17,13 @@
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-html+css-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-JavaScript-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-TypeScript-%231677ff?style=flat"/></a>
-      <!-- 后端和数据库 -->
-</p>
-
-<p align="left"> 
-      &emsp;&emsp;&emsp;
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-java-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-kotlin-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-c/cpp-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-Python-%231677ff?style=flat"/></a>
       <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/code-Golang-%231677ff?style=flat"/></a>
 </p>
+
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
